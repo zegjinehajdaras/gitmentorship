@@ -226,3 +226,49 @@ height: 50px;
 .rc-sections h4 {
     color: white;
 }
+*{
+    margin: 0;
+
+}
+body{
+    background-color: #111010;
+}
+.maincontaier{
+    width: 100%;
+}
+.rightsection{
+    width: 25%;
+    display: block;
+    flex-direction: column;
+    padding: 10px;
+background-color: #19191d;
+float: right;
+height: auto;
+}
+.about{
+    padding: 10px;
+
+
+}
+
+.about_card
+{
+    background-color: #111010;
+margin-bottom: 20px;
+border-radius: 5px;
+}
+.about_card img{
+   width: 100%;;
+    height: auto;
+    border-radius: 5px;
+}
+.about_card .about_text h5{
+color: white;
+font-size: 25px;
+padding-top: 10px;
+}
+.about_card .about_text p{
+    color: #888;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
