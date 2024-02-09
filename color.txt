@@ -1,0 +1,9 @@
+Colors
+
+background-color: #111010;
+background: linear-gradient(#690d0d, #19191d);
+background: #888; /* Color of the scroll bar thumb */
+background: #555; /* Color of the scroll bar thumb on hover */
+background-color: #5e0d0d;
+background-color: #008000;
+background-color: #4caf50;
