@@ -109,14 +109,7 @@ border: none;
 .cards p{
     color: #888;
 }
-*{
-    margin: 0;
-    box-sizing: border-box;
 
-}
-body{
-    background-color: #111010;
-}
 .maincontaier{
     width: 100%;
    
